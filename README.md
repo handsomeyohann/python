@@ -1,1 +1,1 @@
-# python
+# python 정보올림피아드 기초
